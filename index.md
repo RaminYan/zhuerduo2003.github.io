@@ -2,4 +2,10 @@
 layout: default
 ---
 
-[Link to another page](./docs/first-post.md).
+# 2020
+
+## 杂谈
+
+* [hello github page](./docs/first-post.md).
+
+## 技术
